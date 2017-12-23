@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">AppAplication</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="text_page_1"> The natural environment encompasses all living and non-living things occurring naturally. The term is most often applied to the Earth or some part of Earth. This environment encompasses the interaction of all living species, climate, weather, and natural resources that affect human survival and economic activity.
+</string>
+    <string name="question_1"> What are the components of the natural environment?</string>
+    <string name="answer1"> complete ecological units that function as natural systems </string>
+    <string name="answer2"> microorganisms, soil, rocks and atmosphere </string>
+    <string name="answer3">  natural phenomena that occur within their boundaries and their nature </string>
+
+
+    <string name="text_page_2"> Found across the world, birds range from small and difficult-to-spot songbirds to the majestic bald eagle. Though a few birds are flightless, most fly and all have feathers. Typically birds are adapted to have low take-off weights and high power-to-weight ratios. Many species undertake long migrations every year.</string>
+    <string name="question_2"> What threatens about 1,200 bird species with extinction?</string>
+    <string name="answer4"> nature itself </string>
+    <string name="answer5"> human activity </string>
+    <string name="answer6"> unknown forces </string>
+
+
+    <string name="Good_answer"> Nature loves you too </string>
+    <string name="Wrong_answer"> Try harder. Nature need you </string>
+    <string name="text_not_checked"> You havent checked all answers </string>
+    <string name="title_activity_question_main">QuestionMainActivity</string>
+
+</resources>
+
+
